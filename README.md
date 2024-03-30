@@ -1,4 +1,4 @@
-Hi Everyone! 
+Hi Guys! 
 
 This project is completely implemented with HTML and CSS
 
